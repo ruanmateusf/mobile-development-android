@@ -67,6 +67,6 @@ public class MainActivity extends AppCompatActivity {
             resultado += 400.00;
         }
 
-        txtResultado.setText("R$ " + String.valueOf(resultado));
+        txtResultado.setText("R$ " + resultado);
     }
 }
