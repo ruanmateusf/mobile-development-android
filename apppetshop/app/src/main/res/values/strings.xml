@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">app-petshop</string>
+    <string name="pitBull">pitbull</string>
+    <string name="booderCollie">booderCollie</string>
+    <string name="pastorAlemao">pastorAlemao</string>
+    <string name="pastorCanadense">pastorCanadense</string>
+    <string name="femea">femea</string>
+    <string name="adestrado">adestrado</string>
+    <string name="allVacinas">allVacinas</string>
+    <string name="qualDog">Escolha qual cachorro deseja:</string>
+    <string name="booder_collie_r_800_00">Booder Collie R$800,00</string>
+    <string name="pit_bull_r_750_00">Pit Bull R$ 750,00</string>
+    <string name="pastor_alemao_r_700_00">Pastor Alemao R$ 700,00</string>
+    <string name="pastor_canadense_r_800_00">Pastor Canadense R$800,00</string>
+    <string name="f_mea">Fêmea</string>
+    <string name="adestradoo">Adestrado</string>
+    <string name="com_todas_as_vacinas_em_dia">Com todas as vacinas em dia</string>
+    <string name="r_00_00">R$00,00</string>
+    <string name="calcular">Calcular</string>
+</resources>

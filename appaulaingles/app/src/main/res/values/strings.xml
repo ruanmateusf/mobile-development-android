@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">app-aula-ingles</string>
+    <string name="score">SCORE:</string>
+    <string name="pontos">0</string>
+    <string name="opcao1">opcao1</string>
+    <string name="opcao2">opcao2</string>
+    <string name="opcao3">opcao3</string>
+    <string name="proximo">Proximo</string>
+    <string name="pular">Pular</string>
+    <string name="acertou">Acertou mizera</string>
+    <string name="errou">Erroooou mizera</string>
+</resources>

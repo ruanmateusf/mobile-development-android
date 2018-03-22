@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acumulador</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="zerar">Zerar</string>
+
+</resources>
