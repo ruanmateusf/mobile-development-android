@@ -8,6 +8,8 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
+import java.text.NumberFormat;
+
 public class MainActivity extends AppCompatActivity {
 
     RadioGroup rdgCachorros;
@@ -24,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
     TextView txtResultado;
 
     double resultado = 0;
+
+    NumberFormat nf = NumberFormat.getCurrencyInstance();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -67,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
             resultado += 400.00;
         }
 
-        txtResultado.setText("R$ " + resultado);
+        txtResultado.setText(nf.format(resultado));
+        resultado = 0;
     }
 }

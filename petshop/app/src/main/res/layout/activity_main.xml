@@ -80,6 +80,7 @@
         android:text="@string/resultado"
         android:textSize="50sp"
         android:gravity="center"
+
         />
 
 </LinearLayout>
