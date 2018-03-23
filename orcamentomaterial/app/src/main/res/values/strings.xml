@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Orçamento de Material de Construção</string>
+    <string name="material">Informe o material que deseja:</string>
+    <string name="pisoBranco">Piso Branco Baixo Brilho</string>
+    <string name="pisoAlbania">Piso Albania 45x45</string>
+    <string name="porcelanatoPerlato">Porcelanato Perlato Branco</string>
+    <string name="revestimentoMosaico">Revestimento Mosaico</string>
+    <string name="medida">Informe a medida em m²:</string>
+    <string name="dez">10</string>
+    <string name="frete">Ultra frete mega rápido</string>
+    <string name="calcular">Calcular</string>
+    <string name="zeroReais">R$ 00,00</string>
+</resources>
